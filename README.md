@@ -2,7 +2,7 @@ Hi there! 👋 Welcome to my GitHub profile! I'm Dmytrii. I love exploring the w
 
 🌱 Technologies and Skills I have experience and expertise in the following technologies and skills:
 
-Programming Languages: JavaCript Frameworks: React, Next.js Databases: MySQL, MongoDB
+Programming Languages: JavaScript Frameworks: React, Next.js Databases: MySQL, MongoDB
 
 💬 Let's Connect You can connect with me through the following channels:
 
